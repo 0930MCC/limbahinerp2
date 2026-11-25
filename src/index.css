@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-sans: "Public Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-teal-brand: #0F766E;
+  --color-teal-brand-hover: #0D5E58;
+  --color-teal-logo: #3D99AE;
+  --color-teal-tint: #EFF8F8;
+}
+
+@layer base {
+  html,
+  body {
+    font-family: var(--font-sans);
+    background-color: #F5F8F9;
+    color: #0F172A;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes limbahin-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton-shimmer {
+  background: linear-gradient(
+    90deg,
+    #E6ECEE 0%,
+    #F2F6F7 40%,
+    #E6ECEE 80%
+  );
+  background-size: 200% 100%;
+  animation: limbahin-shimmer 1.45s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes limbahin-notif-countdown {
+  0% {
+    width: 100%;
+  }
+  100% {
+    width: 0%;
+  }
+}
+
+.notif-countdown-bar {
+  width: 100%;
+  animation: limbahin-notif-countdown 5s linear forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton-shimmer {
+    animation: none;
+    background: #E6ECEE;
+  }
+
+  .notif-countdown-bar {
+    animation: none;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm;
+  }
+
+  html,
+  body {
+    background: #ffffff !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  body * {
+    visibility: hidden !important;
+  }
+
+  .limbahin-print-sheet,
+  .limbahin-print-sheet * {
+    visibility: visible !important;
+  }
+
+  .limbahin-print-sheet {
+    position: absolute !important;
+    inset: 0 !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: #ffffff !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}
+

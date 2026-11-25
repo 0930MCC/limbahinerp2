@@ -1,0 +1,6 @@
+{
+  "name": "Limbahin ERP",
+  "description": "Waste management ERP and operational dashboard for Limbah B3 tracking, scheduling, documentation, and role-based office workflows powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

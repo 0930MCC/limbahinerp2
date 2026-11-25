@@ -1,0 +1,1061 @@
+item_code;title;description;item_note;list_url_image
+L-3001;Limbah;Pengelolaan limbah yang dihasilkan oleh klien.;;
+L-3002;Limbah Padat;Pengelolaan limbah yang memiliki sifat padat;;
+L-3003;Limbah Cair;Pengelolaan limbah yang memiliki sifat cair;;
+L-3004;Limbah Sludge/Lumpur;Pengelolaan limbah yang memiliki sifat berlumpur;;
+L-3005;Limbah B3 Medis;Pengelolaan limbah yang memiliki sifat B3 medis dan berada di kelompok 36 & 37;;
+L-3006;Limbah B3 Medis Padat;Pengelolaan limbah yang memiliki sifat B3 medis padat dan berada di kelompok 36 & 37;;
+L-3007;Limbah B3 Medis Cair;Pengelolaan limbah yang memiliki sifat B3 medis padat dan berada di kelompok 36 & 37;;
+L-3008;Limbah B3 Industri;Pengelolaan limbah yang diklasifikasikan memiliki sifat B3 industri;;
+L-3009;;;;
+L-3010;Sewa Kendaraan;Biaya yang dikenakan untuk melakukan sewa kendaraan yang bersifat lepas kunci.;"1. No Plat:
+2. Jenis:";
+L-3011;Transportasi;Seluruh biaya yang dikenakan untuk transportasi menggunakan kendaraan, yang mencakup bensin, tol, petugas dan biaya transportasi lainnya.;"1. Jenis/Kapasitas Kendaraan:
+2. Asal & Tujuan:";
+L-3012;Transportasi & Handling Limbah;Seluruh biaya yang dikenakan untuk transportasi dan penanganan limbah menggunakan kendaraan, yang mencakup bensin, tol, petugas dan biaya transportasi lainnya.;"1. Jenis/Kapasitas Kendaraan:
+2. Asal & Tujuan:";
+L-3013;Paket Tahunan;Biaya yang dikenakan untuk paket tahunan yang mencakup kontrak, kuota kunjungan dan kuota limbah selama satu tahun.;"1. Periode 
+2. Rincian Pelayanan:";
+L-3014;Kelebihan Kuota Limbah Paket;Biaya tambahan yang tidak termasuk atau kelebihan dari kuota paket.;;
+L-3015;;;;
+L-3016;Bulanan;Pengelolaan limbah yang dilakukan rutin setiap bulan.;;
+L-3017;Mingguan;Pengelolaan limbah yang dilakukan rutin setiap minggu.;;
+L-3018;Kemasan;Kemasan yang digunakan sebagai alat penyimpanan sementara limbah;1. Jenis Kemasan;
+L-3019;Kontrak Kerjasama;Biaya yang dikenakan untuk kontrak kerjasama pengelolaan limbah B3.;"1. Periode 
+2. Rincian Pelayanan:";
+L-3020;Sewa Kendaraan;Biaya yang dikenakan untuk menyewa kendaraan secara lepas kunci, sesuai dengan rincian dan kontrak yang telah disetujui.;1. No Kontrak;
+L-3021;;;;
+L-3022;;;;
+L-3023;Bongkar Limbah;Proses pembongkaran limbah di tempat pengolahan.;;
+L-3024;Fasilitas Alat;Fasilitas berupa alat untuk mengelola/menyimpan limbah.;"1. No Kemasan:
+2. Jenis Alat:
+3. No Dok/Kontrak:";
+L-3025;;;;
+L-3026;;;;
+L-3027;;;;
+L-3028;;;;
+L-3029;;;;
+L-3030;;;;
+L-3031;;;;
+L-3032;;;;
+L-3033;;;;
+L-3034;;;;
+L-3035;;;;
+L-4002;Fasilitas Plastik Kuning;Alat kemasan berupa plastik kuning untuk menyimpan limbah medis;1. Jenis & ukuran;
+L-4003;Fasilitas Safety box;Alat kemasan berupa safety box untuk menyimpan limbah medis tajam;1. Jenis & ukuran;
+L-5001;A101a;Tetrakloroetilen;;
+L-5002;A101b;Ksilena;;
+L-5003;A101c;Amonium Hidroksida;;
+L-5004;A101d;Limbah yang mengandung senyawa POPs dan UPOPs antara lain polychlorinated biphenyls (PCBs), DDT, PCDD, PCDF;;
+L-5005;A102a;Trikloroetilen;;
+L-5006;A102b;Aseton;;
+L-5007;A102c;Asam Hidrobromat;;
+L-5008;A102d;Aki/baterai bekas;;
+L-5009;A103a;Metilen Klorida;;
+L-5010;A103b;Etil Asetat;;
+L-5011;A103c;Asam Hidroklorat;;
+L-5012;A103d;Debu dan fiber asbes antara lain asbes biru (crocidolite), asbes coklat (amosite), asbes abu- abu (anthrophyllite);;
+L-5013;A104a;1,1,1-trikloroetana;;
+L-5014;A104b;Etil Benzena;;
+L-5015;A104c;Asam Hidrofluorat;;
+L-5016;A104d;Air lindi yang dihasilkan dari fasilitas penimbusan akhir (landfill) Limbah B3;;
+L-5017;A105a;1,1,2-trikloroetana;;
+L-5018;A105b;Etil Eter;;
+L-5019;A105c;Asam Nitrat;;
+L-5020;A105d;Limbah dan/atau buangan produk yang terkontaminasi dan/atau mengandung merkuri (Hg) dan/atau senyawanya jika konsentrasi lebih besar dari 10 ppm (sepuluh parts per million);;
+L-5021;A106a;Karbon Tetraklorida;;
+L-5022;A106b;Metil Isobutil Keton;;
+L-5023;A106c;Asam Fosfat;;
+L-5024;A106d;Limbah dari laboratorium yang mengandung B3;;
+L-5025;A107a;1,1,2,-trikloro-1,2,2,-trifluoroetana;;
+L-5026;A107b;n-Butil Alkohol;;
+L-5027;A107c;Kalium Hidroksida;;
+L-5028;A107d;Pelarut bekas lainnya yang belum dikodifikasi;;
+L-5029;A108a;Triklorofluorometana;;
+L-5030;A108b;Sikloheksanon;;
+L-5031;A108c;Natrium Hidroksida;;
+L-5032;A108d;Limbah terkontaminasi B3;;
+L-5033;A109a;Orto-diklorobenzena;;
+L-5034;A109b;Dimetilbenzena;;
+L-5035;A109c;Asam Suflat;;
+L-5036;A109d;Limbah asam lainnya yang belum dikodifikasi;;
+L-5037;A110a;Klorobenzena;;
+L-5038;A110b;Metanol;;
+L-5039;A110c;Asam Klorida;;
+L-5040;A110d;"Limbah karbon aktif yang mengandung zat pencemar sebagaimana tercantum pada kode Limbah A101a sampai dengan A112a, A101b
+sampai dengan A121b, A101c sampai dengan A110c dan/atau mengandung Limbah B3 sebagaimana tercantum pada kode limbah A105d dan A107d";;
+L-5041;A111a;Trikloroetana;;
+L-5042;A111b;Kresol;;
+L-5043;A111d;Refrigerant bekas dari peralatan elektronik;;
+L-5044;A112a;Fluorokarbon Terklorinasi;;
+L-5045;A112b;Toluena;;
+L-5046;A113b;Metil etil keton;;
+L-5047;A114b;Karbon disulfida;;
+L-5048;A115b;Isobutanol;;
+L-5049;A116b;Piridina;;
+L-5050;A117b;Benzena;;
+L-5051;A118b;2-Etoksietanol;;
+L-5052;A119b;2-Nitropropana;;
+L-5053;A120b;Asam Kresilat;;
+L-5054;A121b;Nitrobenzena;;
+L-5055;A2001;"Warfarin atau 2H-1-Benzopiran-2- on, 4-hidroksi-3-(3-okso-1- fenilbutil)-, dan garamnya, dengan
+konsentrasi lebih besar dari 0,3% (nol koma tiga persen)";;
+L-5056;A2002;"Asetamida, -(aminotioksometil)-,
+atau 1-Asetil-2-tiourea";;
+L-5057;A2003;Akrolin atau 2-Propenal;;
+L-5058;A2004;"Aldrin atau 1,4,5,8-
+Dimetanonaftalen, 1,2,3,4,10,10- heksa-kloro-1,4,4a,5,8,8a,- heksahidro-, (1alfa,4alfa,4abeta,
+5alfa,8alfa,8abeta)-";;
+L-5059;A2005;Allil alkohol atau 2-Propen-1-ol;;
+L-5060;A2006;Aluminum fosfida;;
+L-5061;A2007;5-(Aminometil)-3-isoksazolol, atau 3(2H)-Isoksazolon, 5-(aminometil)-;;
+L-5062;A2008;4-Piridinamina, atau 4-Aminopiridin;;
+L-5063;A2009;"Amonium pikrat, atau Fenol, 2,4,6-
+trinitro-, garam amonium";;
+L-5064;A2010;Asam arsenat H3AsO4;;
+L-5065;A2011;Arsenat Pentoksida As2O5;;
+L-5066;A2012;Arsenat trioksida As2O3;;
+L-5067;A2013;Barium sianida;;
+L-5068;A2014;Benzenatiol , atau Tiofenol;;
+L-5069;A2015;Bubuk Berilium;;
+L-5070;A2016;Diklorometil eter, atau Metana, oksibis[kloro-;;
+L-5071;A2017;Bromoaseton, atau 2-Propanon, 1- bromo-;;
+L-5072;A2018;"Brusin, atau Striknidin -10-on, 2,3-
+dimetoksi-";;
+L-5073;A2019;"Dinoseb, atau Fenol, 2-(1-
+metilpropil)-4,6-dinitro-";;
+L-5074;A2020;Kalsium sianida Ca(CN)2;;
+L-5075;A2021;Karbon disulfide;;
+L-5076;A2022;Asetaldehid, kloro-, atau Kloroasetaldehid;;
+L-5077;A2023;Benzenamin, 4-kloro-, atau p- Kloroanilin;;
+L-5078;A2024;1-(o-Klorofenil)tiourea, atau Tiourea, (2-klorofenil)-;;
+L-5079;A2025;3-Kloropropionitril, atau Propananitril, 3-kloro-;;
+L-5080;A2026;Benzen, (klorometil)-, atau Klorobenzen, atau Benzen klorida;;
+L-5081;A2027;Tembaga sianida Cu(CN);;
+L-5082;A2028;Sianida (garam sianida terlarut);;
+L-5083;A2029;Sianogen, atau Etanadinitril;;
+L-5084;A2030;Sianogen kloride (CN)Cl;;
+L-5085;A2031;2-Sikloheksil-4,6-dinitrofenol, atau Fenol, 2-sikloheksil-4,6-dinitro-;;
+L-5086;A2032;Arsonous diklorida, fenil-, atau Diklorofenilarsin;;
+L-5087;A2033;"Dieldrin, atau 2,7:3,6- Dimetanonaft[2,3-b]oksiren, 3,4,5,6,9,9-heksakloro- 1a,2,2a,3,6,6a,7,7a-oktahidro-, (1aalfa,2beta,2aalfa,3beta,6beta,6aa
+lfa,7beta, 7aalfa)-";;
+L-5088;A2034;Arsin, dietil-, atau Dietilarsin;;
+L-5089;A2035;Disulfoton, atau Asam fosforoditioat, O,O-dietil, S-[2-(etiltio)etil] ester;;
+L-5090;A2036;O,O-Dietil O-pirazinil fosforotioat, atau Asam fosforotioat, O,O-dietil O- pirazinil ester;;
+L-5091;A2037;Dietil-p-nitrofenil fosfat, atau Asam fosforat, dietil 4-nitrofenil ester;;
+L-5092;A2038;"1,2-Benzenadiol, 4-[1-hidroksi-2- (metilamino)etil]-, (R)-, atau
+Epinefrin";;
+L-5093;A2039;Diisopropilflorofosfat (DFP), atau Asam fosforofluoridat, bis(1- metiletil) ester;;
+L-5094;A2040;"Dimetoat, atau Asam fosforoditioat, O,O-dimetil S-[2-(metilamino)-2-
+oksoetil ester";;
+L-5095;A2041;"Tiofanoks, atau 2-Butanon, 3,3-
+dimetil-1-(metiltio)-,";;
+L-5096;A2042;"alfa,alfa-Dimetilfenetilamin, atau
+Benzenaetanamin, alfa,alfa-dimetil-";;
+L-5097;A2043;"Fenol, 2-metil-4,6-dinitro-, dan
+garamnya, atau 4,6-Dinitro-o- kresol, dan garamnya";;
+L-5098;A2044;Fenol, 2,4-dinitro-, atau 2,4- Dinitrofenol;;
+L-5099;A2045;"Ditiobiuret, atau Tioimidodikarbonat
+diamid [(H2N)C(S)]2NH";;
+L-5100;A2046;"Endosulfan, atau 6,9-Metano-2,4,3- benzodioksathiepin, 6,7,8,9,10,10- heksakloro-1,5,5a,6,9,9a-
+heksahidro-, 3-oksida";;
+L-5101;A2047;"Endrin atau 2,7:3,6-Dimetanonaft [2,3-b]oksiren, 3,4,5,6,9,9-
+heksakloro-1a,2,2a,3,6,6a,7,7a- oktahidro-,
+(1aalfa,2beta,2abeta,3alfa,6alfa,6abe ta,7beta, 7aalfa)-, dan metabolitnya";;
+L-5102;A2048;Aziridin, atau Etileneimine;;
+L-5103;A2049;Gas Fluor atau Fluorine;;
+L-5104;A2050;"Asetamida, 2-fluoro-, atau
+Fluoroasetamida";;
+L-5105;A2051;"Asam fluoroasetat, garam
+natriumnya, atau Asam asetat, fluoro-, garam natriumnya";;
+L-5106;A2052;Heptaklor, atau 4,7-Metano-1H- indena, 1,4,5,6,7,8,8-heptakloro- 3a,4,7,7a-tetrahidro-;;
+L-5107;A2053;"Isodrin atau 1,4,5,8-
+Dimetanonaftalen, 1,2,3,4,10,10- heksa- kloro-1,4,4a,5,8,8a- heksahidro-,
+(1alfa,4alfa,4abeta,5beta,8beta,8abe ta)-";;
+L-5108;A2054;Heksaetil tetrafosfat atau Asam tetrafosforat, heksaetil ester;;
+L-5109;A2055;Asam hidrosianat atau Hidrogen sianida;;
+L-5110;A2056;Metil isosianat atau Metan, isosianat-;;
+L-5111;A2057;Asam fulminat, garam merkuri(2+) nya atau Merkuri fulminat;;
+L-5112;A2058;"Metomil, atau Asam etanamidotionat, N- [[(metilamino)karbonil]oksi]-, metil
+ester";;
+L-5113;A2059;"1,2-Propilenimina atau Aziridin, 2-
+metil-";;
+L-5114;A2060;"Metil hidrazina atau Hidrazina,
+metil-";;
+L-5115;A2061;"2-Metilaktonitril atau Propananitril,
+2-hidroksi-2-metil-";;
+L-5116;A2062;"Aldicarb atau Propanal, 2-metil-2-
+(metiltio)-, O- [(metilamino)karbonil]oksimaa";;
+L-5117;A2063;Metil paration atau Asam fosforotioat, O,O,-dimetil O-(4- nitrofenil) ester;;
+L-5118;A2064;alfa-Naftiltiourea atau Tiourea, 1- naftalenil-;;
+L-5119;A2065;Nikel karbonil Ni(CO)4, (T-4)-;;
+L-5120;A2066;Nikel sianida Ni(CN)2;;
+L-5121;A2067;"Nikotin, dan garamnya atau Piridin, 3-(1-metil-2-pirolidinil)-, (S)-, dan
+garamnya";;
+L-5122;A2068;"Oksida nitrit atau Nitrogen oksida
+NO";;
+L-5123;A2069;"Benzenamin, 4-nitro- atau p-
+Nitroanilin";;
+L-5124;A2070;Nitrogen dioksida NO2;;
+L-5125;A2071;Nitrogliserin atau 1,2,3- Propanatriol, trinitrat;;
+L-5126;A2072;N-Nitrosodimetilamin atau Metanamin, N-metil-N-nitroso-;;
+L-5127;A2073;N-Nitrosometilvinilamin atau Vinilamina, N-metil-N-nitroso-;;
+L-5128;A2074;Oktametilpirofosforamida atau Difosforamida, oktametil-;;
+L-5129;A2075;Osmium tetroksida OsO4, (T-4)-;;
+L-5130;A2076;"Endotal atau 7-
+Oksabisiklo[2.2.1]heptan-2,3-asam dikarboksilat";;
+L-5131;A2077;Paration atau Asam fosforotioat, O,O-dietil O-(4-nitrofenil) ester;;
+L-5132;A2078;Fenilmerkuri asetat atau Merkuri, (acetato-O)fenil-;;
+L-5133;A2079;Feniltiourea atau Tiourea, fenil-;;
+L-5134;A2080;Forat atau Asam fosforoditioat, O,O- dietil, S-[(etiltio)metil] ester;;
+L-5135;A2081;Karbonat diklorida atau Fosgen;;
+L-5136;A2082;Hidrogen fosfida atau Fosfin;;
+L-5137;A2083;"Famfur atau Asam fosforotioat, O- [4-[(dimetilamino)sulfonil]fenil] O,O-
+dimetil ester";;
+L-5138;A2084;Kalium sianida K(CN);;
+L-5139;A2085;Kalium perak sianida atau Argentat(1-), bis(siano-C)-, kalium;;
+L-5140;A2086;Etil sianida atau Propananitril;;
+L-5141;A2087;Propargil alkohol atau 2-Propin-1-ol;;
+L-5142;A2088;Selenourea;;
+L-5143;A2089;Perak sianida Ag(CN);;
+L-5144;A2090;Natrium azida;;
+L-5145;A2091;Natrium sianida Na(CN);;
+L-5146;A2092;Striknin, dan garamnya, atau Striknidin-10-on, dan garamnya;;
+L-5147;A2093;"Tetraetilditiopirofosfat atau Asam
+tiodifosforat, tetraetil ester";;
+L-5148;A2094;"Tetraetil timbal atau Timbal,
+tetraetil-";;
+L-5149;A2095;"Tetraetil pirofosfat atau Asam
+difosforat, tetraetil ester";;
+L-5150;A2096;"Tetranitrometan atau Metan,
+tetranitro-";;
+L-5151;A2097;"Oksida talat atau Oksida talium
+Tl2O3";;
+L-5152;A2098;"Tetraetilditiopirofosfat atau Asam selenit, garam ditalium(1+) nya,
+atau Talium selenida";;
+L-5153;A2099;"Talium sulfat, atau Asam sulfat, garam ditalium(1+) nya, atau Asam tiodifosforat, tetraetil ester, atau
+Plumbane, tetraetil-";;
+L-5154;A2100;"Hidrazinakarbotioamida atau Tiosemikarbazida atau Timbal
+tetraetil";;
+L-5155;A2101;"Triklorometanetiol atau Metanatiol,
+trikloro-";;
+L-5156;A2102;"Amonium vanadat atau Asam
+vanadat, garam amonium";;
+L-5157;A2103;Vanadium pentoksida (V2O5);;
+L-5158;A2104;Seng sianida Zn(CN)2;;
+L-5159;A2105;"Seng fosfida (Zn3P2), dengan konsentrasi lebih besar dari 10%
+(sepuluh persen)";;
+L-5160;A2106;Toksafena;;
+L-5161;A2107;"Karbofuran atau 7-Benzofuranol,
+2,3-dihidro-2,2-dimetil-, metilkarbamat.";;
+L-5162;A2108;"Meksakarbat atau Fenol, 4-
+(dimetilamino)-3,5-dimetil-, metilkarbamat (ester).";;
+L-5163;A2109;"Tirpat atau 1,3-Ditiolane-2- karboksaldehid, 2,4-dimetil-, O-
+[(metilamino)- karbonil]oksima.";;
+L-5164;A2110;Fisostigmin salisilat atau Asam benzoat, 2-hidroksi-, senyawa dengan (3aS-cis)-1,2,3,3a,8,8a- heksahidro-1,3a,8-trimetilpirolo[2,3- b]indol-5-il metilkarbamat ester (1:1).;;
+L-5165;A2111;"Karbosulfan atau Asam karbamat, [(dibutilamino)- tio]metil-, 2,3-
+dihidro-2,2-dimetil- 7-benzofuranil ester.";;
+L-5166;A2112;Metolkarb atau Asam karbamat, metil-, 3-metilfenil ester.;;
+L-5167;A2113;Dimetilan atau Asam karbamat, dimetil-, 1-[(dimetil-amino)karbonil]- 5-metil-1H- pirazol-3-il ester.;;
+L-5168;A2114;"Isolan atau Asam karbamat, dimetil-
+, 3-metil-1- (1-metiletil)-1H- pirazol- 5-il ester.";;
+L-5169;A2115;"Oksamil atau Asam etanamidotionat, 2-(dimetilamino)- N-[[(metilamino) karbonil]oksi]-2-
+okso-, metil ester.";;
+L-5170;A2116;"Mangan dimetilditiokarbamat atau Mangan, bis(dimetilkarbamoditioat-
+S,S_)-,";;
+L-5171;A2117;"Formparanat atau Metanimidamida,
+N,N-dimetil-N_-[2-metil-4- [[(metilamino)karbonil]oksi]fenil]-";;
+L-5172;A2118;"Formetanat hidroklorida atau Metanimidamida, N,N-dimetil-N_-[3- [[(metilamino)-karbonil]oksi]fenil]-,
+monohidroklorida.";;
+L-5173;A2119;"Metiokarb atau Fenol, (3,5-dimetil-
+4-(metiltio)-, metilkarbamat";;
+L-5174;A2120;"Promekarb atau Fenol, 3-metil-5-(1-
+metiletil)-, metil karbamat.";;
+L-5175;A2121;"m-Kumenil metilkarbamat atau 3- Isopropilfenil N-metilkarbamat atau Fenol, 3-(1-metiletil)-, metil
+karbamat.";;
+L-5176;A2122;Aldicarb sulfon atau Propanal, 2- metil-2-(metil-sulfonil)-, O- [(metilamino)karbonil] oksima.;;
+L-5177;A2123;"Fisostigmin atau Pirolo[2,3-b]indol- 5-ol, 1,2,3,3a,8,8a-heksahidro-
+1,3a,8-trimetil-, metilkarbamat (ester), (3aS-cis)-.";;
+L-5178;A2124;Ziram atau Seng, bis(dimetilkarbamoditioato-S,S_)-,;;
+L-5179;A2125;Etanal atau Asetaldehida;;
+L-5180;A2126;Aseton atau 2-Propanon;;
+L-5181;A2127;Asetonitril;;
+L-5182;A2128;Asetofenon atau Etanon, 1-fenil-;;
+L-5183;A2129;2-Asetilaminofluoren atau Asetamida, -9H-fluoren-2-il-;;
+L-5184;A2130;Asetil klorida;;
+L-5185;A2131;Akrilamida atau 2-Propenamida;;
+L-5186;A2132;Asam akrilat atau Asam 2- propenoat;;
+L-5187;A2133;Akrilonitrile atau 2-Propenenitril;;
+L-5188;A2134;"Mitomisin C atau Azirino[2',3':3,4]pirolo[1,2-a]indol- 4,7-dion, 6-amino-8- [[(aminokarbonil)oksi]metil]- 1,1a,2,8,8a,8b-heksahidro-8a- metoksi-5-metil-, [1aS-(1aalfa,
+8beta,8aalfa,8balfa)]-";;
+L-5189;A2135;"Amitrol atau 1H-1,2,4-Triazol-3-
+amina";;
+L-5190;A2136;Anilin atau Benzenamin;;
+L-5191;A2137;Auramin atau Benzenamin, 4,4'- karbonimidoil bis[N,N-dimetil-;;
+L-5192;A2138;Azaserin atau L-Serin, diazoasetat (ester);;
+L-5193;A2139;Benz[c]akridin;;
+L-5194;A2140;"Benzal klorida atau Benzena,
+(diklorometil)-";;
+L-5195;A2141;Benz[a]antrasen;;
+L-5196;A2142;Benzena;;
+L-5197;A2143;"Asam benzenasulfonit klorida atau
+Benzenasulfonil klorida";;
+L-5198;A2144;Benzidine atau [1,1'-Bifenil]-4,4'- diamin;;
+L-5199;A2145;Benzo[a]piren;;
+L-5200;A2146;Benzotriklorida atau Benzena, (triklorometil)-;;
+L-5201;A2147;Diklorometoksi etana atau Etana, 1,1'-[metilenabis(oksi)]bis[2-kloro-;;
+L-5202;A2148;"Dikloroetil eter atau Etana, 1,1'-
+oksibis[2-kloro-";;
+L-5203;A2149;"Klornafazin atau Naftalenamin,
+N,N'-bis(2-kloroetil)-";;
+L-5204;A2150;"Dikloroisopropil eter atau Propana,
+2,2'-oksibis[2-kloro-";;
+L-5205;A2151;"Dietilheksil ftalat atau Asam 1,2-
+Benzenadikarboksilat, bis(2- etilheksil) ester";;
+L-5206;A2152;Metil bromida atau Metana, bromo-;;
+L-5207;A2153;"4-Bromofenil fenil eter atau
+Benzena, 1-bromo-4-fenoksi-";;
+L-5208;A2154;1-Butanol atau n-Butil alkohol;;
+L-5209;A2155;Kalsium kromat atau Asam kromat H2CrO4, kalsium dan garamnya;;
+L-5210;A2156;Karbonil difluorida atau Karbon oksifluorida;;
+L-5211;A2157;Kloral atau Asetaldehida, trikloro-;;
+L-5212;A2158;"Klorambusil atau Asam benzenabutanoat, 4-[bis(2-
+kloroetil)amino]-";;
+L-5213;A2159;"Klordan, alfa & gamma isomers, atau 4,7-Metano-1H-indena, 1,2,4,5,6,7,8,8-oktakloro-
+2,3,3a,4,7,7a-heksahidro-";;
+L-5214;A2160;Klorobenzena atau Benzena, kloro-;;
+L-5215;A2161;Klorobenzilat atau Asam benzenaasetat, 4-kloro-alfa-(4- klorofenil)-alfa-hidroksi-, etil ester;;
+L-5216;A2162;p-Kloro-m-kresol atau Fenol, 4- kloro-3-metil-;;
+L-5217;A2163;Epiklorohidrin atau Oksiran, (klorometil)-;;
+L-5218;A2164;2-Kloroetil vinil eter atau Etena, (2- kloroetoksi)-;;
+L-5219;A2165;Vinil klorida atau Etena, kloro-;;
+L-5220;A2166;Kloroform atau Metana, trikloro-;;
+L-5221;A2167;Metil klorida atau Metana, kloro-;;
+L-5222;A2168;Klorometil metil eter atau Metana, klorometoksi-;;
+L-5223;A2169;beta-Kloronaftalena atau Naftalena, 2-kloro-;;
+L-5224;A2170;o-Klorofenol atau Fenol, 2-kloro-;;
+L-5225;A2171;"4-Kloro-o-toluidin, hidroklorida, atau Benzenamin, 4-kloro-2-metil-,
+hidroklorida";;
+L-5226;A2172;Krisen;;
+L-5227;A2173;Kreosot;;
+L-5228;A2174;"Kresol (Asam kresilat) atau Fenol,
+metil-";;
+L-5229;A2175;Krotonaldehida atau 2-Butenal;;
+L-5230;A2176;Kumena atau Benzena, (1-metiletil)-;;
+L-5231;A2177;"Sikloheksana atau Benzena,
+heksahidro-";;
+L-5232;A2178;Sikloheksanon;;
+L-5233;A2179;"Siklofosfamida atau 2H-1,3,2- Oksazafosforin-2-amina, N,N-bis(2-
+kloroetil)tetrahidro-, 2-oksida";;
+L-5234;A2180;"Daunomisin atau 5,12- Naftasenediona, 8-asetil-10-[(3- amino-2,3,6-trideoksi)-alfa-L-likso- heksopiranosil)oksi]-7,8,9,10-
+tetrahidro-6,8,11-trihidroksi-1- metoksi-, (8S-cis)-";;
+L-5235;A2181;DDD atau Benzena, 1,1'-(2,2- dikloroetilidena)bis[4-kloro-;;
+L-5236;A2182;DDT atau Benzena, 1,1'-(2,2,2- trikloroetilidena)bis[4-kloro-;;
+L-5237;A2183;Dialat atau Asam karbamotioat, bis(1-metiletil)-, S-(2,3-di kloro-2- propenil) ester;;
+L-5238;A2184;Dibenz[a,h]antrasen;;
+L-5239;A2185;Dibenzo[a,i]pirena atau Benzo[rst]pentafen;;
+L-5240;A2186;1,2-Dibromo-3-kloropropana, atau Propana, 1,2-dibromo-3-kloro-;;
+L-5241;A2187;Etilen dibromida atau Etana, 1,2- dibromo-;;
+L-5242;A2188;Metilen bromida atau Metana, dibromo-;;
+L-5243;A2189;Dibutil ftalat atau Asam 1,2- Benzenadikarboksilat, dibutil ester;;
+L-5244;A2190;o-Diklorobenzena atau Benzena, 1,2-dikloro-;;
+L-5245;A2191;m-Diklorobenzena atau Benzena, 1,3-dikloro-;;
+L-5246;A2192;p-Diklorobenzena atau Benzena, 1,4-dikloro-;;
+L-5247;A2193;3,3'-Diklorobenzidina atau [1,1'- Bifenil]-4,4'-diamina, 3,3'-dikloro-;;
+L-5248;A2194;1,4-Dikloro-2-butena atau 2- Butena, 1,4-dikloro-;;
+L-5249;A2195;Diklorodifluorometana atau Metana, diklorodifluoro-;;
+L-5250;A2196;Etiliden diklorida atau Etana, 1,1- dikloro-;;
+L-5251;A2197;Etana, 1,2-dikloro- atau Etilen diklorida;;
+L-5252;A2198;1,1-Dikloroetilene atau Etena, 1,1- dikloro-;;
+L-5253;A2199;1,2-Dikloroetilene atau Etena, 1,2- dikloro-, (E)-;;
+L-5254;A2200;"Metilene klorida atau Metana,
+dikloro-";;
+L-5255;A2201;"2,4-Diklorofenol atau Fenol, 2,4-
+dikloro-";;
+L-5256;A2202;"2,6-Diklorofenol atau Fenol, 2,6-
+dikloro-";;
+L-5257;A2203;"Propilen diklorida atau Propana,
+1,2-dikloro-";;
+L-5258;A2204;1,3-Dikloropropena atau 1-Propena, 1,3-dikloro-;;
+L-5259;A2205;2,2'-Bioksiran atau 1,2:3,4- Diepoksibutana;;
+L-5260;A2206;N,N'-Dietilhidrazin atau Hidrazin, 1,2-dietil-;;
+L-5261;A2207;"O,O-Dietil S-metil ditiofosfat atau Asam fosforoditioat, O,O-dietil S-
+metil ester";;
+L-5262;A2208;"Dietil ftalat atau Asam 1,2-
+Benzenadikarboksilat, dietil ester";;
+L-5263;A2209;"Dietilstilbesterol atau Fenol, 4,4'-
+(1,2-dietil-1,2-etenadiil)bis-, (E)-";;
+L-5264;A2210;Dihidrosafrol atau 1,3-Benzodioksol, 5-propil-;;
+L-5265;A2211;3,3'-Dimetoksibenzidin atau [1,1'- Bifenil]-4,4'-diamin, 3,3'-dimetoksi-;;
+L-5266;A2212;Dimetilamin atau Metanamin, - metil-;;
+L-5267;A2213;"p-Dimetilaminoazobenzena atau Benzenamin, N,N-dimetil-4-
+(fenilazo)-";;
+L-5268;A2214;"7,12-Dimetilbenz[a]antrasen atau
+Benz[a]antrasen, 7,12-dimetil-";;
+L-5269;A2215;"3,3'-Dimetilbenzidin atau [1,1'-
+Bifenil]-4,4'-diamin, 3,3'-dimetil-";;
+L-5270;A2216;"alfa,alfa-Dimetilbenzilhidroperoksida atau Hidroperoksida, 1-metil-1-
+feniletil-";;
+L-5271;A2217;"Dimetilcarbamoil klorida atau
+Carbamic klorida, dimetil-";;
+L-5272;A2218;"1,1-Dimetilhidrazin atau Hidrazin,
+1,1-dimetil-";;
+L-5273;A2219;"1,2-Dimetilhidrazin atau Hidrazin,
+1,2-dimetil-";;
+L-5274;A2220;"2,4-Dimetilfenol atau Fenol, 2,4-
+dimetil-";;
+L-5275;A2221;"Dimetil ftalat atau Asam 1,2-
+Benzenadikarboksilat, dimetil ester";;
+L-5276;A2222;Dimetil sulfat atau Asam sulfat, dimetil ester;;
+L-5277;A2223;2,4-Dinitrotoluen atau Benzena, 1- metil-2,4-dinitro-;;
+L-5278;A2224;2,6-Dinitrotoluen atau Benzena, 2- metil-1,3-dinitro-;;
+L-5279;A2225;Di-n-octil ftalat atau Asam 1,2- Benzenadikarboksilat, dioktil ester;;
+L-5280;A2226;1,4-Dioksan atau 1,4-Dietilenoksida;;
+L-5281;A2227;"1,2-Difenilhidrazin atau Hidrazin,
+1,2-difenil-";;
+L-5282;A2228;"Dipropilamina atau 1-Propanamina,
+N-propil-";;
+L-5283;A2229;"Di-n-propilnitrosamina atau 1-
+Propanamina, N-nitroso-N-propil-";;
+L-5284;A2230;Asam asetat etil ester atau Etil asetat;;
+L-5285;A2231;Etil akrilat atau Asam 2-Propenoat, etil ester;;
+L-5286;A2232;"Asam etilenabisditiokarbamat, dan garamnya serta esternya, atau Asam karbamoditioat, 1,2-etanadiilbis-,
+dan garamnya serta esternya";;
+L-5287;A2233;Oksiran atau Etilen oksida;;
+L-5288;A2234;Etilentiourea atau 2- Imidazolidinetion;;
+L-5289;A2235;Etil eter atau Etana, 1,1'-oksibis-;;
+L-5290;A2236;"Etil metakrilat atau Asam 2-
+Propenoat, 2-metil-, etil ester";;
+L-5291;A2237;"Etil metanasulfonat atau Asam
+metanasulfonat, etil ester";;
+L-5292;A2238;Fluoranten;;
+L-5293;A2239;Trikloromonofluorometana atau Metana, triklorofluoro-;;
+L-5294;A2240;Formaldehida;;
+L-5295;A2241;Asam format;;
+L-5296;A2242;Furan atau Furfuran;;
+L-5297;A2243;Furfural atau 2- Furankarboksaldehida;;
+L-5298;A2244;Glisidilaldehida atau Oksirankarboksialdehida;;
+L-5299;A2245;Heksaklorobenzena atau Benzena, heksakloro-;;
+L-5300;A2246;Heksaklorobutadiena atau 1,3- Butadiena, 1,1,2,3,4,4-heksakloro-;;
+L-5301;A2247;"Lindan atau Sikloheksana, 1,2,3,4,5,6-heksakloro-,
+(1alfa,2alfa,3beta,4alfa,5alfa,6beta)-";;
+L-5302;A2248;"Heksaklorosiklopentadiena atau
+1,3-Siklopentadiena, 1,2,3,4,5,5- heksakloro-";;
+L-5303;A2249;Heksakloroetana atau Etana, heksakloro-;;
+L-5304;A2250;"Heksaklorofen atau Fenol, 2,2'-
+metilen bis[3,4,6-trikloro-";;
+L-5305;A2251;Hidrazina;;
+L-5306;A2252;Asam hidrofluorat atau Hidrogen fluorida;;
+L-5307;A2253;Hidrogen sulfida H2S;;
+L-5308;A2254;"Asam kakodilat atau Asam arsinat,
+dimetil-";;
+L-5309;A2255;Indeno[1,2,3-cd]piren;;
+L-5310;A2256;Metil iodida atau Metana, iodo-;;
+L-5311;A2257;Isobutil alkohol atau 1-Propanol, 2- metil-;;
+L-5312;A2258;Isosafrol atau 1,3-Benzodioksol, 5- (1-propenil)-;;
+L-5313;A2259;"Kepon atau 1,3,4-Meteno-2H- siklobuta[cd]pentalen-2-one, 1,1a,3,3a,4,5,5,5a,5b,6-
+decaklorooctahidro-";;
+L-5314;A2260;"Lasiokarpin atau Asam 2-Butenoat, 2-metil-, 7-[[2,3-dihidroksi-2-(1- metoksietil)-3-metil-1- oksobutoksi]metil]-2,3,5,7a-
+tetrahidro-1H-pirolizin-1-il ester, [1S-[1alfa(Z),7(2S*,3R*),7aalfa]]-";;
+L-5315;A2261;Timbal asetat atau Asam asetat, timbal(2+) dan garamnya;;
+L-5316;A2262;Timbal fosfat atau Asam fosforat, timbal(2+) salt (2:3);;
+L-5317;A2263;Timbal subasetat atau Timbal, bis(asetato-O)tetrahidroksitri-;;
+L-5318;A2264;Maleat anhidrida atau 2,5- Furandione;;
+L-5319;A2265;Maleat hidrazida atau 3,6- Piridazinadion, 1,2-dihidro-;;
+L-5320;A2266;Malononitril atau Propanadinitril;;
+L-5321;A2267;"Melfalan atau L-Fenilalanin, 4-
+[bis(2-kloroetil)amino]-";;
+L-5322;A2268;Merkuri;;
+L-5323;A2269;Metakrilonitril atau 2-Propenanitril, 2-metil-;;
+L-5324;A2270;Metanatiol atau Tiometanol;;
+L-5325;A2271;Metanol atau Metil alkohol;;
+L-5326;A2272;"Metapirilen atau 1,2-Etanadiamina,
+N,N-dimetil-N'-2-piridinil-N'-(2- tienilmetil)-";;
+L-5327;A2273;Metil klorokarbonat atau Asam karbonokloridat, metil ester;;
+L-5328;A2274;3-Metilkolantrena atau Benz[j]aseantrilena, 1,2-dihidro-3- metil-;;
+L-5329;A2275;"4,4'-Metilen bis(2-kloroaniline) atau Benzenamin, 4,4'-metilen bis[2-
+kloro-";;
+L-5330;A2276;"2-Butanon atau Metil etil keton
+(MEK)";;
+L-5331;A2277;"2-Butanone, peroksida atau Metil
+etil ketone peroksida";;
+L-5332;A2278;"Metil isobutil keton (I) atau 4-Metil-
+2-pentanon (I) atau Pentanol, 4- metil-";;
+L-5333;A2279;"Metil metakrilat atau Asam 2-
+Propenoat, 2-metil, metil ester";;
+L-5334;A2280;"MNNG atau Guanidin, -metil-N'-
+nitro-N-nitroso-";;
+L-5335;A2281;"Metiltiourasil atau 4(1H)-
+Pirimidinon, 2,3-dihidro-6-metil-2- tiokso-";;
+L-5336;A2282;Naftalena;;
+L-5337;A2283;1,4-Naftalendion atau 1,4- Naftokuinon;;
+L-5338;A2284;1-Naftalenamin atau alfa-Naftilamin;;
+L-5339;A2285;2-Naftalenamin atau beta-Naftilamin;;
+L-5340;A2286;Nitrobenzena atau Benzena, nitro-;;
+L-5341;A2287;p-Nitrofenol atau Fenol, 4-nitro-;;
+L-5342;A2288;2-Nitropropana atau Propana, 2- nitro-;;
+L-5343;A2289;N-Nitrosodi-n-butilamin atau 1- Butanamin, N-butil-N-nitroso-;;
+L-5344;A2290;N-Nitrosodietanolamin atau Etanol, 2,2'-(nitrosoimino)bis-;;
+L-5345;A2291;"N-Nitrosodietilamin atau Etanamin,
+-etil-N-nitroso-";;
+L-5346;A2292;"N-Nitroso-N-etilurea atau Urea, N-
+etil-N-nitroso-";;
+L-5347;A2293;"N-Nitroso-N-metilurea atau Urea, N-
+metil-N-nitroso-";;
+L-5348;A2294;"N-Nitroso-N-metiluretana atau Asam
+karbamat, metilnitroso-, etil ester";;
+L-5349;A2295;"N-Nitrosopiperidin atau Piperidin, 1-
+nitroso-";;
+L-5350;A2296;"N-Nitrosopirolidin atau Pirolidin, 1-
+nitroso-";;
+L-5351;A2297;5-Nitro-o-toluidin atau Benzenamin, 2-metil-5-nitro-;;
+L-5352;A2298;Paraldehida atau 1,3,5-Trioksan, 2,4,6-trimetil-;;
+L-5353;A2299;Pentaklorobenzena atau Benzena, pentakloro-;;
+L-5354;A2300;Pentakloroetana atau Etana, pentakloro-;;
+L-5355;A2301;Pentakloronitrobenzena (PCNB) atau Benzena, pentakloronitro-;;
+L-5356;A2302;1-Metilbutadien atau 1,3-Pentadien;;
+L-5357;A2303;"Fenasetin atau Asetamida, -(4-
+etoksifenil)-";;
+L-5358;A2304;Fenol;;
+L-5359;A2305;Fosforus sulfida atau Sulfur fosfida;;
+L-5360;A2306;Ftalik anhidrida atau 1,3- Isobenzofurandion;;
+L-5361;A2307;2-Pikolin atau Piridin, 2-metil-;;
+L-5362;A2308;"Pronamida atau Benzamida, 3,5-
+dikloro-N-(1,1-dimetil-2-propinil)-";;
+L-5363;A2309;"1,3-Propan sulton atau 1,2-
+Oksatiolan, 2,2-dioksida";;
+L-5364;A2310;n-Propilamin atau 1-Propanamina;;
+L-5365;A2311;Piridina;;
+L-5366;A2312;p-Benzokuinon atau 2,5- Sikloheksadien-1,4-dion;;
+L-5367;A2313;"Reserpin atau Yohimban-16- karboksilic acid, 11,17-dimetoksi- 18-[(3,4,5-trimetoksibenzoil)oksi]-, metil ester, (3beta, 16beta, 17alfa,
+18beta, 20alfa)-";;
+L-5368;A2314;Resorcinol atau 1,3-Benzenadiol;;
+L-5369;A2315;Safrol atau 1,3-Benzodioksol, 5-(2- propenil)-;;
+L-5370;A2316;"Asam selenit atau Selenium
+dioksida";;
+L-5371;A2317;"Selenium sulfida atau Selenium
+sulfida SeS2";;
+L-5372;A2318;"Streptozotosin atau D-Glukosa, 2- deoksi-2-[[(metilnitrosoamino)- karbonil]amino]- atau Glukopiranos, 2-deoksi-2-(3-metil-3-nitrosoureido)-
+, D-";;
+L-5373;A2319;"1,2,4,5-Tetraklorobenzena atau
+Benzena, 1,2,4,5-tetrakloro-";;
+L-5374;A2320;"1,1,1,2-Tetrakloroetana atau Etana,
+1,1,1,2-tetrakloro-";;
+L-5375;A2321;"1,1,2,2-Tetrakloroetana atau Etana,
+1,1,2,2-tetrakloro-";;
+L-5376;A2322;"Tetrakloroetilen atau Etena,
+tetrakloro-";;
+L-5377;A2323;"Karbon tetraklorida atau Metana,
+tetrakloro-";;
+L-5378;A2324;Tetrahidrofuran atau Furan, tetrahidro-;;
+L-5379;A2325;Talium asetat atau Asam asetat, talium(1+) dan garamnya;;
+L-5380;A2326;Talium karbonat atau Carbonic acid, ditalium(1+) dan garamnya;;
+L-5381;A2327;Talium klorida atau Talium klorida TlCl;;
+L-5382;A2328;Talium nitrat atau Asam nitrat, garam talium(1+);;
+L-5383;A2329;Tioasetamida atau Etanatioamida;;
+L-5384;A2330;Tiourea;;
+L-5385;A2331;Toluena atau Benzena, metil-;;
+L-5386;A2332;Toluenediamin atau Benzenadiamin, ar-metil-;;
+L-5387;A2333;o-Toluidina hidroklorida at Benzenamin, 2-metil-, hidroklorida;;
+L-5388;A2334;Toluena diisosianat atau Benzena, 1,3-diisosianatometil-;;
+L-5389;A2335;Bromoform atau Metana, tribromo-;;
+L-5390;A2336;"Metil kloroform atau Etana, 1,1,1-
+trikloro- atau 1,1,1-Trikloroetana";;
+L-5391;A2337;"1,1,2-Trikloroetana atau Etana,
+1,1,2-trikloro-";;
+L-5392;A2338;Trikloroetilen atau Etena, trikloro-;;
+L-5393;A2339;1,3,5-Trinitrobenzena atau Benzena, 1,3,5-trinitro-;;
+L-5394;A2340;"Tris(2,3-dibromopropil) fosfat atau
+1-Propanol, 2,3-dibromo-, fosfat (3:1)";;
+L-5395;A2341;"Tripan blue atau Asam 2,7- Naftalenedisulfonat, 3,3'-[(3,3'- dimetil[1,1'-bifenil]-4,4'- diil)bis(azo)bis[5-amino-4-hidroksi]-,
+garam tetrasodium";;
+L-5396;A2342;"Urasil mustard atau 2,4-(1H,3H)- Pirimidinedion, 5-[bis(2-
+kloroetil)amino]-";;
+L-5397;A2343;"Etil karbamat (uretana) atau Asam
+karbamat, etil ester";;
+L-5398;A2344;Silen atau Benzena, dimetil-;;
+L-5399;A2345;"2,4-D, garamnya dan esternya atau Asam Asetat, (2,4-diklorofenoksi)-,
+garamnya dan esternya";;
+L-5400;A2346;"Heksakloropropena atau 1-Propena,
+1,1,2,3,3,3-heksakloro-";;
+L-5401;A2347;"Tiram atau Tioperoksidikarbonat
+diamid [(H2N)C(S)]2S2, tetrametil-";;
+L-5402;A2348;Sianogen bromida (CN)Br;;
+L-5403;A2349;Metoksiklor atau Benzena, 1,1'- (2,2,2-trikloroetiliden)bis[4- metoksi-;;
+L-5404;A2350;"Warfarin, dan garamnya, pada konsentrasi <0,3% (lebih kecil dari atau sama dengan nol koma tiga persen), atau 2H-1-Benzopyran-2- one, 4-hidroksi-3-(3-okso-1-fenil- butil)-, dan garamnya, pada konsentrasi <0,3% (lebih kecil dari atau sama dengan nol koma tiga
+persen)";;
+L-5405;A2351;"Seng fosfida Zn3P2, pada konsentrasi <10% (lebih kecil dari
+atau sama dengan sepuluh persen)";;
+L-5406;A2352;Benomil atau Asam karbamat, [1- [(butilamino)karbonil]-1H- benzimidazol-2-il]-, metil ester;;
+L-5407;A2353;Bendiocarb atau 1,3-Benzodioksol- 4-ol, 2,2-dimetil-, metil karbamat;;
+L-5408;A2354;Karbaril atau 1-Naftalenol, metilkarbamat;;
+L-5409;A2355;Barban atau Asam karbamat, (3- klorofenil)-, 4-kloro-2-butinil ester;;
+L-5410;A2356;o-Toluidina atau Benzenamin, 2- metil-;;
+L-5411;A2357;p-Toluidina atau Benzenamin, 4- metil-;;
+L-5412;A2358;"Etilen glikol monoetil eter atau
+Etanol, 2-etoksi-";;
+L-5413;A2359;Bendiokarb fenol atau 1,3- Benzodioksol-4-ol, 2,2-dimetil-,;;
+L-5414;A2360;"Karbofuran fenol atau 7- Benzofuranol, 2,3-dihidro-2,2-
+dimetil-";;
+L-5415;A2361;"Karbendazim atau Asam karbamat,
+1H-benzimidazol-2-il, metil ester";;
+L-5416;A2362;"Profam atau Asam karbamat, fenil-,
+1-metiletil ester";;
+L-5417;A2363;"Prosulfokarb atau Asam
+karbamotioat, dipropil-, S- (fenilmetil) ester";;
+L-5418;A2364;"Trialat atau Asam karbamotioat, bis(1-metiletil)-, S-(2,3,3-trikloro-2-
+propenil) ester";;
+L-5419;A2365;"A2213 atau Asam etanimidotioat, 2- (dimetilamino)-N-hidroksi-2-okso-,
+metil ester";;
+L-5420;A2366;"Dietilen glikol, dikarbamat, atau
+Etanol, 2,2'-oksibis-, dikarbamat";;
+L-5421;A2367;"Trietilamin atau Etanamin, N,N-
+dietil-";;
+L-5422;A2368;"Tiofanat-metil atau Asam karbamat, [1,2-fenilenebis (iminokarbonotioil)]bis-, dimetil
+ester";;
+L-5423;A2369;"Tiodikarb atau Asam etanimidotioat, N,N'-
+[tiobis[(metilimino)karboniloksi]]bis-, dimetil ester";;
+L-5424;A2370;"Propoksur atau Fenol, 2-(1-
+metiletoksi)-, metilkarbamat";;
+L-5425;A2371;"Asam Asetat, (2,4,5-triklorofenoksi)-
+atau Pentaklorofenol atau Fenol, pentakloro-";;
+L-5426;A2372;Fenol, 2,3,4,6-tetrakloro-;;
+L-5427;A2373;Fenol, 2,4,5-trikloro-;;
+L-5428;A2374;Silveks (2,4,5-TP) atau Asam propanoat, 2-(2,4,5-triklorofenoksi)-;;
+L-5429;A2375;2,3,4,6-Tetraklorofenol atau 2,4,5-T;;
+L-5430;A2376;2,4,5-Triklorofenol atau 2,4,6- Triklorofenol;;
+L-5431;A302-1;Sludge brine dari pemurnian garam dengan proses sel merkuri dalam memproduksi klorin, hidrogen dan soda kaustik;;
+L-5432;A302-10;Lumpur barium sulfat yang mengandung merkuri (Hg) jika konsentrasi lebih besar dari 10 ppm (sepuluh parts per million);;
+L-5433;A302-2;Sludge brine dari pemurnian garam dengan proses sel membran atau diafragma dalam memproduksi klorin, hidrogen dan soda kaustik;;
+L-5434;A302-3;Limbah hidrokarbon terklorinasi dari tahap pemurnian garam dengan proses sel membran atau diafragma menggunakan anoda grafit dalam produksi gas klor;;
+L-5435;A302-4;Peralatan yang terkontaminasi Limbah merkuri (Hg) jika konsentrasi lebih besar dari 10 ppm (sepuluh parts per million);;
+L-5436;A302-5;Limbah karbon aktif dari proses produksi klorin, hidrogen, soda kaustik yang menggunakan proses sel merkuri;;
+L-5437;A302-6;Bahan atau produk yang tidak memenuhi spesifikasi teknis;;
+L-5438;A302-7;Limbah merkuri sulfida;;
+L-5439;A302-8;Limbah dari proses filtrasi larutan soda kaustik;;
+L-5440;A302-9;Sludge IPAL dari proses sel merkuri dan/ atau sel membran atau diafragma dalam memproduksi klorin, hidrogen dan soda kaustikLumpur barium sulfat yangmengandung merkuri (Hg) jikakonsentrasi lebih besar dari 10ppm (sepuluh parts per million);;
+L-5441;A303-1;Bahan atau produk yang tidak memenuhi spesifikasi teknis;;
+L-5442;A303-2;Residu proses produksi yang meliputi formulasi, destilasi, dan evaporasi;;
+L-5443;A303-3;Absorben dan filter bekas;;
+L-5444;A303-4;Debu emisi dari alat pengendalian pencemaran udara, termasuk debu tumpahan dari bahan atau produk;;
+L-5445;A303-5;Abu (ash) dari insinerator;;
+L-5446;A303-6;Sludge IPAL;;
+L-5447;A304-1;Bahan dan produk yang tidak memenuhi persyaratan;;
+L-5448;A304-2;Lumpur encer (aqueous sludge) yang mengandung adesif atau sealant yang mengandung pelarut organic;;
+L-5449;A304-3;Limbah minyak resin;;
+L-5450;A304-4;Residu dari proses penyaringan produk (strainer);;
+L-5451;A304-5;Kerak dari proses esterifikasi (thermosetting);;
+L-5452;A304-6;Residu proses produksi atau kegiatan;;
+L-5453;A305-1;Monomer atau oligomer yang tidak bereaksi;;
+L-5454;A305-2;Residu produksi atau reaksi pemurnian, polimer absorben, fraksinasi.;;
+L-5455;A305-3;Residu dari proses destilasi;;
+L-5456;A305-4;Orgalite dari furnace proses produksi CS2;;
+L-5457;A305-5;Alkali selulosa;;
+L-5458;A306-1;Sludge dari proses produksi dan fasilitas penyimpanan minyak bumi atau gas alam;;
+L-5459;A306-2;Residu akhir (tar);;
+L-5460;A306-3;Residu proses produksi atau reaksi;;
+L-5461;A307-1;Sludge dari proses produksi dan fasilitas penyimpanan minyak bumi atau gas alam meliputi: 1. Sludge kilang minyak primer dari hasil pemisahan gravitasi minyak, air dan padatan selama penyimpanan dan/atau pengolahan. Sludge tersebut termasuk yang dihasilkan dalam pemisahan minyak, air, dan padatan pada tangki dan impoundments, saluran air dan alat angkut lainnya, genangan air, dan unit stormwater menerima aliran air hujan atau air hasil proses pengolahan, pemeliharaan dan/atau produksi 2. Sludge kilang minyak sekunder (emulsi) hasil pemisahan fisik dan/atau kimia minyak, air dan padatan;;
+L-5462;A307-2;Residu dasar tanki;;
+L-5463;A307-3;Slop padatan emulsi minyak dari industri penyulingan minyak bumi;;
+L-5464;A308-1;Sludge dari proses pengawetan kayu dan fasilitas penyimpanan;;
+L-5465;A308-2;Sludge dari alat-alat pengolahan atau pengawetan kayu;;
+L-5466;A309-1;Fluxing agent bekas;;
+L-5467;A309-2;Limbah amonia, fenol, sianida & hidrogen sulfida;;
+L-5468;A309-3;Spent pickle liquor;;
+L-5469;A309-4;Sludge spent pickle liquor;;
+L-5470;A309-5;Sludge amonia still lime;;
+L-5471;A309-6;Residu dari proses produksi kokas (tar;;
+L-5472;A309-7;Sludge ammonia still lime;;
+L-5473;A310-1;"Larutan asam alkali bekas dan
+Residunya";;
+L-5474;A310-2;Residu terkontaminasi sianida (hot metal treatment;;
+L-5475;A310-3;Larutan pengolah bekas;;
+L-5476;A310-4;Fluxing agent bekas;;
+L-5477;A310-5;Sludge dari proses pengolahan residu;;
+L-5478;A311-1;Larutan asam bekas;;
+L-5479;A311-2;Slag yang dihasilkan dari proses peleburan primer dan/atau Sekunder;;
+L-5480;A311-3;Debu dan/atau sludge dari fasilitas pengendalian pencemaran udara;;
+L-5481;A311-4;Ash, dross, dan skimming dari proses peleburan primer dan/ atau sekunder;;
+L-5482;A311-5;Sludge dan filter cakes dari gas treatment;;
+L-5483;A311-6;Sludge dari oil treatment atau fasilitas penyimpanan;;
+L-5484;A312-1;Larutan asam bekas;;
+L-5485;A312-2;Sludge dari acid plant blowdown;;
+L-5486;A312-3;Residu dari proses penyempurnaan secara elektrolisis;;
+L-5487;A312-4;Sludge dari oil treatment atau fasilitas penyimpanan;;
+L-5488;A313-1;Limbah dari proses skimming yang mudah terbakar atau teremisi ketika kontak dengan air;;
+L-5489;A313-2;Tar dan residu karbon dari anode Manufacturing;;
+L-5490;A313-3;Anodizing sludge;;
+L-5491;A313-4;Sludge dari oil treatment atau fasilitas penyimpanan;;
+L-5492;A314-1;"Limbah dari proses skimming yang
+mudah terbakar atau teremisi ketika kontak dengan air.";;
+L-5493;A314-2;Sludge dari oil treatment atau fasilitas penyimpanan;;
+L-5494;A314-3;Electrolyte cell slime sludge;;
+L-5495;A315-1;"Sludge dari oil treatment atau
+fasilitas penyimpanan";;
+L-5496;A316-1;"Sludge dari oil treatment atau
+fasilitas penyimpanan";;
+L-5497;A317-1;Larutan oksalat dan sludge;;
+L-5498;A317-2;Larutan permanganat (pickling);;
+L-5499;A317-3;Residu asam pickling;;
+L-5500;A317-4;Larutan pembersih alkali;;
+L-5501;A318-1;Larutan asam bekas;;
+L-5502;A318-2;Sludge IPAL;;
+L-5503;A318-3;Debu dari fasilitas pengendalian pencemaran udara;;
+L-5504;A318-4;Debu, slag dan dross peleburan aki bekas;;
+L-5505;A318-5;Sludge dan filter cakes dari gas treatment;;
+L-5506;A318-6;"Sludge dari oil treatment atau
+fasilitas penyimpanan";;
+L-5507;A319-1;"Sludge dari oil treatment atau
+fasilitas penyimpanan";;
+L-5508;A320-1;"Sludge dari oil treatment atau
+fasilitas penyimpanan";;
+L-5509;A322-1;Pelarut bekas (cleaning);;
+L-5510;A322-2;"Senyawa brom organik (Sb) (fire
+retardant)";;
+L-5511;A322-3;Dyestuffs dan pigment mengandung logam berat;;
+L-5512;A323-1;Pelarut bekas dan cairan organik dan anorganik bekas pencucian (cleaning);;
+L-5513;A323-2;"Sludge proses produksi yang
+meliputi manufacturing, perakitan dan pemeliharaan";;
+L-5514;A323-3;Residu proses produksi yang meliputi manufacturing, perakitan dan pemeliharaan;;
+L-5515;A324-1;"Sludge dan filter cakes dari proses
+pengolahan dan pencucian";;
+L-5516;A324-2;"Larutan bekas dari kegiatan
+pengolahan";;
+L-5517;A324-3;Larutan asam (pickling);;
+L-5518;A324-5;Pelarut bekas terklorinasi;;
+L-5519;A324-6;Larutan bekas proses degreasing;;
+L-5520;A324-7;Residu dari larutan batch;;
+L-5521;A324-8;"Spent plating solutions antara lain Cr (hexavalent), Pb, Ni, As, Cu, Zn, Cd, Fe, Sn atau kombinasi logam
+tersebut";;
+L-5522;A325-1;"Limbah cat dan varnish
+mengandung pelarut organik";;
+L-5523;A325-2;Sludge dari cat dan varnish yang mengandung pelarut organik;;
+L-5524;A325-3;Residu proses destilasi;;
+L-5525;A325-4;Cat anti korosi berbahan dari Pb dan Cr;;
+L-5526;A325-5;Debu dan/atau sludge dari unit pengendalian pencemaran udara;;
+L-5527;A325-6;Sludge proses depainting;;
+L-5528;A325-7;Sludge dari IPAL;;
+L-5529;A326-1;"Sludge proses produksi dan/atau pemanfaatan baterai bekas, bahan atau produk yang tidak memenuhi
+spesifikasi teknis, dan kedaluwarsa";;
+L-5530;A326-2;"Residu proses produksi pemanfaatan baterai bekas, baterai yang tidak memenuhi spesifikasi
+teknis, dan baterai kedaluwarsa";;
+L-5531;A326-3;Dust, slag, ash, pasta;;
+L-5532;A326-4;Metal powder;;
+L-5533;A327-1;Larutan asam bekas;;
+L-5534;A327-2;Larutan alkali bekas;;
+L-5535;A327-3;Sludge proses produksi;;
+L-5536;A327-4;Lead powder;;
+L-5537;A327-5;Sludge dari oil treatment atau fasilitas penyimpanan;;
+L-5538;A328-1;Mercury contactor/switch;;
+L-5539;A328-2;Lampu fluoresen (Hg);;
+L-5540;A328-3;Larutan untuk printed circuit;;
+L-5541;A328-4;Caustic strapping (photoresist);;
+L-5542;A328-5;Sludge proses produksi perakitan;;
+L-5543;A329-1;Mercury contactor/switch;;
+L-5544;A329-2;Lampu fluoresen (Hg);;
+L-5545;A329-3;Caustic strapping (photoresist);;
+L-5546;A329-4;Cathod ray tube (CRT);;
+L-5547;A329-5;Larutan untuk printed circuit;;
+L-5548;A329-6;Sludge proses produksi;;
+L-5549;A330-1;Residu dasar tangki minyak bumi;;
+L-5550;A330-2;Residu proses produksi;;
+L-5551;A331-1;Spent process solutions (CN);;
+L-5552;A331-2;Sludge dari oil treatment atau fasilitas penyimpanan;;
+L-5553;A332-1;"Sludge dari oil treatment atau
+fasilitas penyimpanan";;
+L-5554;A334-1;Asam kromat bekas;;
+L-5555;A334-2;Tanning liquor mengandung Cr;;
+L-5556;A334-3;"Limbah degreasing yang
+mengandung pelarut";;
+L-5557;A335-1;Sludge proses produksi dan fasilitas penyimpanan.;;
+L-5558;A335-2;Residu produksi/reaksi;;
+L-5559;A335-3;Bahan atau produk yang tidak memenuhi spesifikasi teknis;;
+L-5560;A336-1;Bahan atau produk yang tidak memenuhi spesifikasi teknis, kedaluwarsa, dan sisa;;
+L-5561;A336-2;Residu proses produksi dan formulasi;;
+L-5562;A336-3;Residu proses destilasi, evaporasi dan reaksi;;
+L-5563;A336-4;Reactor bottom wastes;;
+L-5564;A336-5;Sludge dari fasilitas produksi;;
+L-5565;A337-1;Limbah klinis memiliki karakateristik infeksius;;
+L-5566;A337-2;Produk farmasi kedaluwarsa;;
+L-5567;A337-3;Bahan kimia kedaluwarsa;;
+L-5568;A337-4;Peralatan laboratorium terkontaminasi B3;;
+L-5569;A337-5;Peralatan medis mengadung logam berat, termasuk merkuri (Hg), kadmium (Cd), dan sejenisnya;;
+L-5570;A338-1;Bahan kimia kedaluwarsa;;
+L-5571;A338-2;Peralatan laboratorium terkontaminasi B3;;
+L-5572;A338-3;Residu sampel Limbah B3;;
+L-5573;A338-4;Sludge IPAL;;
+L-5574;A339-1;"Larutan developer, fixer, dan bleach
+bekas";;
+L-5575;A340-1;Residu proses destilasi dan evaporasi;;
+L-5576;A340-2;"Residu minyak, emulsi, sludge, dan
+dasar tangki (DAF)";;
+L-5577;A341-1;Residu produksi dan konsentrat;;
+L-5578;A341-2;Konsentrat yang tidak memenuhi spesifikasi teknis dan kedaluwarsa;;
+L-5579;A341-3;Heavy alkylated hydrocarbon;;
+L-5580;A342-1;Residu filtrasi;;
+L-5581;A342-2;Residu proses destilasi;;
+L-5582;A343-1;Glycerine pitch;;
+L-5583;A343-2;Residu filtrasi;;
+L-5584;A345-1;"Emulsi minyak dari proses cutting
+dan minyak pendingin";;
+L-5585;A345-2;"Sludge logam antara lain berupa serbuk, gram dari proses metal
+shaping yang mengandung minyak";;
+L-5586;A346-1;Larutan kaustik bekas;;
+L-5587;A347-1;Fly ash insinerator;;
+L-5588;A347-2;Slag atau bottom ash insinerator;;
+L-5589;A348-1;"Residu atau sludge proses destilasi,
+evaporasi, dan sedimentasi";;
+L-5590;A348-2;Filter dan absorben bekas;;
+L-5591;A349-1;Emulsi minyak;;
+L-5592;A349-2;Glass switches (Hg);;
+L-5593;A349-3;Residu Opal glass ÐAs;;
+L-5594;A349-4;Bronzing & decolorizing agent-As;;
+L-5595;A350-1;Sisa asbestos;;
+L-5596;A350-2;Adhesive coating;;
+L-5597;A350-3;Residu dari proses produksi;;
+L-5598;A351-1;Adesif atau perekat sisa dan kedaluwarsa;;
+L-5599;A351-2;Residu pencetakan (tinta/pewarna);;
+L-5600;A351-3;Sludge brine;;
+L-5601;A352-1;"Alkali, pelarut asam dan/ atau larutan oksidator yang terkontaminasi logam, minyak,
+gemuk.";;
+L-5602;A352-2;Residu dari kegiatan pembersihan;;
+L-5603;A355-1;Pelarut (cleaning, degreasing);;
+L-5604;A357-1;Residu dari proses produksi kokas (tar);;
+L-5605;A357-2;Tar sludge;;
+L-5606;A357-3;Residu minyak;;
+L-5607;B101d;"Limbah dan/atau buangan produk yang terkontaminasi dan/atau mengandung merkuri (Hg) dan/atau senyawanya jika konsentrasi lebih kecil dari 10 ppm (sepuluh parts per million) dan lebih besar dari 0,3 ppm (nol koma
+tiga parts per million)";;
+L-5608;B102d;Debu dan fiber asbes asbes putih (chrysotile);;
+L-5609;B103d;Lead scrap;;
+L-5610;B104d;Kemasan bekas B3;;
+L-5611;B105d;"Minyak pelumas bekas antara lain minyak pelumas bekas hidrolik, mesin, gear, lubrikasi, insulasi, heat transmission, grit chambers,
+separator dan/atau campurannya";;
+L-5612;B106d;Limbah resin atau penukar ion;;
+L-5613;B107d;"Limbah elektronik termasuk cathode ray tube
+(CRT), lampu TL, printed circuit board (PCB), karet kawat (wire rubber)";;
+L-5614;B108d;"Sludge instalasi pengolahan air Limbah (IPAL)
+dari fasilitas IPAL terpadu pada kawasan industri";;
+L-5615;B109d;Filter bekas dari fasilitas pengendalian pencemaran udara;;
+L-5616;B110d;Kain majun bekas (used rags) dan yang sejenis;;
+L-5617;B301-1;Limbah karbon aktif selain Limbah karbon aktif dengan kode Limbah A110d;;
+L-5618;B301-2;Terak (slag) mengandung fosfor dari proses yang menggunakan teknologi electric furnace;;
+L-5619;B301-3;Katalis bekas;;
+L-5620;B301-4;Residu proses produksi atau kegiatan;;
+L-5621;B301-5;Debu emisi dari alat pengendalian pencemaran udara;;
+L-5622;B301-6;Limbah iron sponge yang digunakan pada unit desulfurisasi;;
+L-5623;B301-7;Sludge IPAL;;
+L-5624;B302-1;Peralatan yang terkontaminasi limbah merkuri (Hg) jika konsentrasi lebih kecil dari 10 ppm (sepuluh parts per million) dan/atau lebih bessar dari 0,3 ppm (nol koma tiga parts per million);;
+L-5625;B302-2;Lumpur barium sulfat yang mengandung merkuri (Hg) jika konsentrasi lebih kecil dari 10 ppm (sepuluh parts per million) dan/atau lebih besar dari 0,3 ppm (nol koma tiga parts per million);;
+L-5626;B302-3;Limbah yang mengandung asbes dari proses elektrolisis yang menggunakan diafragma asbes;;
+L-5627;B304-1;Katalis bekas;;
+L-5628;B304-2;Sludge IPAL;;
+L-5629;B305-1;Katalis bekas;;
+L-5630;B305-2;Sisa dan bekas stabiliser;;
+L-5631;B305-3;Fire retardant misalnya Sb dan senyawa bromine organik;;
+L-5632;B305-4;Senyawa Sn organik untuk thermal Stabilizer;;
+L-5633;B305-5;Sludge IPAL;;
+L-5634;B306-1;Katalis bekas;;
+L-5635;B306-2;Absorban misalnya karbon aktif bekas selain Limbah karbon aktif dengan kode Limbah A110d, dan filter bekas;;
+L-5636;B306-3;Residu atau debu dari proses Drying;;
+L-5637;B306-4;Sludge IPAL;;
+L-5638;B307-1;Katalis bekas;;
+L-5639;B307-2;Karbon aktif bekas selain Limbah karbon aktif dengan kode Limbah A110d;;
+L-5640;B307-3;Filter bekas termasuk lempung (clays) spent filter;;
+L-5641;B307-4;Debu dari fasilitas pengendalian pencemaran udara;;
+L-5642;B308-1;Bahan atau produk yang tidak memenuhi spesifikasi teknis dan produk left-over;;
+L-5643;B308-2;Sludge dari IPAL;;
+L-5644;B309-1;Dross dari peleburan;;
+L-5645;B309-2;Debu dari fasilitas pengendalian pencemaran udara;;
+L-5646;B309-3;Pasir foundry (sand foundry) & debu cupola;;
+L-5647;B309-4;Emulsi minyak dari fasilitas Pendingin;;
+L-5648;B309-5;Sludge IPAL yang mengolah efluen dari coke oven atau blast;;
+L-5649;B310-1;Sludge IPAL;;
+L-5650;B311-1;Sludge dari fasilitas cooling tower;;
+L-5651;B311-2;Sludge dari IPAL;;
+L-5652;B312-1;Debu dan/atau sludge dari fasilitas pengendalian pencemaran udara;;
+L-5653;B312-2;Ash, dross, dan skimming dari proses peleburan primer dan/ atau sekunder;;
+L-5654;B312-3;Sludge dan filter cakes dari gas treatment;;
+L-5655;B312-4;Sludge dari fasilitas cooling tower;;
+L-5656;B312-5;Sludge IPAL;;
+L-5657;B313-1;Anode scraps;;
+L-5658;B313-2;Slag yang dihasilkan dari proses produksi primer dan/atau sekunder;;
+L-5659;B313-3;Dross hitam dari produksi sekunder;;
+L-5660;B313-4;Katoda (spent pot lining);;
+L-5661;B313-5;Limbah dari proses skimming selain Limbah dengan kode Limbah A313-1;;
+L-5662;B313-6;Debu dan/atau sludge dari fasilitas pengendalian pencemaran udara;;
+L-5663;B313-7;Sludge dan filter cakes dari gas treatment;;
+L-5664;B313-8;Sludge dari IPAL;;
+L-5665;B314-1;"Slag dan dross yang dihasilkan dari
+proses produksi primer dan/atau sekunder";;
+L-5666;B314-2;Debu dan/atau sludge dari fasilitas pengendalian pencemaran udara.;;
+L-5667;B314-3;"Limbah dari proses skimming selain Limbah dengan kode Limbah B314-
+1";;
+L-5668;B314-4;"Sludge dan filter cakes dari gas
+treatment";;
+L-5669;B314-5;Sludge dari IPAL;;
+L-5670;B315-1;"Debu dari fasilitas pengendalian
+pencemaran udara";;
+L-5671;B315-2;Sludge dan filter cakes dari gas treatment;;
+L-5672;B316-1;"Slag yang dihasilkan dari proses
+produksi primer dan/atau sekunder";;
+L-5673;B316-2;Debu dan/atau sludge dari fasilitas pengendalian pencemaran udara;;
+L-5674;B316-3;"Dross dan skimming dari proses produksi primer dan/atau
+sekunder";;
+L-5675;B316-4;"Sludge dan filter cakes dari gas
+treatment";;
+L-5676;B316-5;Sludge dari IPAL;;
+L-5677;B317-1;Minyak emulsi pendingin;;
+L-5678;B317-2;Debu fasilitas pengendalian pencemaran udara.;;
+L-5679;B317-3;Sludge IPAL;;
+L-5680;B319-1;"Debu dari fasilitas pengendalian
+pencemaran udara";;
+L-5681;B319-2;Sludge dan filter cakes dari gas treatment;;
+L-5682;B320-1;"Debu dari fasilitas pengendalian
+pencemaran udara";;
+L-5683;B320-2;Sludge dan filter cakes dari gas treatment;;
+L-5684;B321-1;"Sludge mengandung tinta dari
+proses produksi dan penyimpanannya";;
+L-5685;B321-2;Sludge tinta;;
+L-5686;B321-3;Residu dari proses pencucian;;
+L-5687;B321-4;Kemasan bekas tinta;;
+L-5688;B321-5;"Bahan atau produk yang tidak
+memenuhi spesifikasi teknis dan kedaluwarsa";;
+L-5689;B321-6;Waste oil based ink disposed;;
+L-5690;B321-7;Waste etching solution;;
+L-5691;B321-8;Sludge IPAL;;
+L-5692;B322-1;"Dyestuffs dan pigment mengandung
+bahan kimia berbahaya";;
+L-5693;B322-2;"Limbah dari proses finishing yang
+mengandung pelarut organik";;
+L-5694;B322-3;Sludge dari IPAL;;
+L-5695;B323-1;Sisa proses blasting;;
+L-5696;B323-2;Sludge painting;;
+L-5697;B323-3;Potongan PCB tersolder;;
+L-5698;B323-4;Scrap timah solder;;
+L-5699;B323-5;Sludge IPAL;;
+L-5700;B324-1;Dross, slag;;
+L-5701;B324-2;Filter bekas;;
+L-5702;B324-3;Sludge IPAL;;
+L-5703;B325-1;Filter bekas;;
+L-5704;B325-2;Produk yang tidak memenuhi persyaratan;;
+L-5705;B326-1;"Baterai bekas, baterai yang tidak memenuhi spesifikasi teknis, dan
+baterai kedaluwarsa";;
+L-5706;B326-2;"Debu dari fasilitas pencemaran
+udara";;
+L-5707;B326-3;Sludge IPAL;;
+L-5708;B327-1;Baterai bekas, baterai yang tidak memenuhi spesifikasi teknis, dan baterai kedaluwarsa;;
+L-5709;B327-2;Dross;;
+L-5710;B327-3;"Debu, slag dan dross peleburan aki
+bekas";;
+L-5711;B327-4;Sludge dan filter cakes dari gas treatment;;
+L-5712;B327-5;Sludge dari IPAL;;
+L-5713;B328-1;Cathod Ray Tube (CRT);;
+L-5714;B328-2;Coated glass;;
+L-5715;B328-3;Residu solder dan fluxnya;;
+L-5716;B328-4;Printed circuit board (PCB);;
+L-5717;B328-5;Limbah kabel logam & insulasinya;;
+L-5718;B328-6;Sludge dari IPAL;;
+L-5719;B329-1;Coated glass;;
+L-5720;B329-2;Residu solder & fluxnya;;
+L-5721;B329-3;Printed circuit board (PCB);;
+L-5722;B329-4;Limbah kabel logam & insulasinya;;
+L-5723;B329-5;Sludge dari IPAL;;
+L-5724;B330-1;"Limbah lumpur bor berbahan dasar
+oil base dan/atau synthetic oil";;
+L-5725;B330-2;"Limbah serbuk bor berbahan dasar
+oil base dan/atau synthetic oil";;
+L-5726;B330-3;"Limbah karbon aktif selain Limbah karbon aktif dengan kode Limbah
+A110d";;
+L-5727;B330-4;Absorben dan/atau filter bekas;;
+L-5728;B331-1;Limbah fire assay seperti ceramic, flux, dan cuppel;;
+L-5729;B331-2;Sludge dan filter cakes dari gas treatment;;
+L-5730;B331-3;Debu dari fasilitas pengendalian pencemaran udara.;;
+L-5731;B332-1;"Sludge dan filter cakes dari gas
+treatment";;
+L-5732;B332-2;Debu dari fasilitas pengendalian pencemaran udara.;;
+L-5733;B333-1;Debu dari fasilitas pengendalian pencemaran udara selain Limbah dengan kode Limbah B409 atau B410;;
+L-5734;B333-2;Pasir dari fluidized bed;;
+L-5735;B333-3;Sludge IPAL;;
+L-5736;B334-1;"Limbah dari proses tanning dan finishing antara lain blue sheetings, shavings, cutting, bufffing dust,
+yang mengandung Cr";;
+L-5737;B334-2;Limbah dari proses dressing;;
+L-5738;B334-3;Sludge IPAL;;
+L-5739;B335-1;Absorban dan filter bekas;;
+L-5740;B335-2;Sludge IPAL;;
+L-5741;B336-1;Absorban dan filter bekas atau karbon aktif;;
+L-5742;B336-2;Sludge dari IPAL;;
+L-5743;B337-1;Kemasan produk farmasi;;
+L-5744;B337-2;Sludge IPAL;;
+L-5745;B339-1;Off-set Cr;;
+L-5746;B339-2;Tinta, tonner;;
+L-5747;B340-1;Filter dan absorban bekas;;
+L-5748;B340-2;Debu dari fasilitas pengendalian pencemaran udara;;
+L-5749;B341-1;Filter dan absorban bekas;;
+L-5750;B341-2;Sludge AlCl3;;
+L-5751;B342-1;Sludge minyak atau lemak;;
+L-5752;B343-1;Katalis bekas;;
+L-5753;B343-2;Sludge IPAL;;
+L-5754;B344-1;"Sludge dari proses pengolahan
+metal hardening";;
+L-5755;B344-2;Sludge IPAL;;
+L-5756;B345-1;Sludge dari proses plastic shaping;;
+L-5757;B346-1;"Sludge dari proses cleaning dan
+degreasing";;
+L-5758;B347-1;Residu pengolahan flue gas;;
+L-5759;B347-2;Filter & absorban bekas;;
+L-5760;B347-3;Sludge IPAL;;
+L-5761;B349-1;Bubuk gelas terlapis logam;;
+L-5762;B349-2;Residu dari proses etching;;
+L-5763;B349-3;"Debu dari fasilitas pengendalian
+pencemaran udara.";;
+L-5764;B350-1;Sludge dari IPAL;;
+L-5765;B351-1;Lime mud;;
+L-5766;B351-2;Debu dari fasilitas pengendalian pencemaran udara.;;
+L-5767;B351-3;Sludge oil treatment dan/atau penyimpanan;;
+L-5768;B351-4;Sludge IPAL pembuatan produk kertas deinking.;;
+L-5769;B353-1;Toner bekas;;
+L-5770;B354-1;"Campuran atau fraksi terpisah dari beton, brick, dan keramik yang
+mengandung B3";;
+L-5771;B354-2;"Gelas, plastik dan kayu yang
+terkontaminasi B3";;
+L-5772;B354-3;"Limbah logam yang terkontaminasi
+B3";;
+L-5773;B354-4;"Material insulasi yang mengandung
+asbestos";;
+L-5774;B354-5;"Material konstruksi yang
+mengandung asbestos";;
+L-5775;B355-1;Limbah cat;;
+L-5776;B355-2;Baterai bekas;;
+L-5777;B356-1;Limbah carbide-residu;;
+L-5778;B356-2;"Katalis antara lain reformer atau
+desulfurizer bekas";;
+L-5779;B357-1;Sludge IPAL;;
+L-5780;B401;Copper slag;;
+L-5781;B402;Steel slag;;
+L-5782;B403;Slag nikel;;
+L-5783;B404;"Slag timah
+putih";;
+L-5784;B405;Iron concentrate;;
+L-5785;B406;Mill scale;;
+L-5786;B407;Debu EAF;;
+L-5787;B408;PS ball;;
+L-5788;B409;Fly ash;;
+L-5789;B410;Bottom ash;;
+L-5790;B411;Sludge IPAL;;
+L-5791;B412;Dreg dan grits;;
+L-5792;B413;"Spent bleaching
+earth";;
+L-5793;B414;Gipsum;;
+L-5794;B415;Kapur (CaCO3);;
+L-5795;B416;Tailing;;
+L-5796;B417;"Refraktori bekas yang dihasilkan
+dari fasilitas termal";;
+L-5797;Tanah K1;Limbah tanah terkontaminasi 1;;
+L-5798;Tanah K2;Limbah tanah terkontaminasi 2;;
+L-5799;Tanah K3;Limbah tanah terkontaminasi 3;;
+L-5900;Limbah B3 Medis;Medis (A337-1 - Limbah Medis Klinis, A337-2 - Produk farmasi);;
+L-5901;Limbah B3 Umum/Komersil;Komersil (B110d - Kain majun, B105d - Minyal & oli, A108d - Limbah terkontaminasi B3, B104d - Kemasan bekas B3);;
+L-5902;Limbah B3 Produk & Bahan;Produk & Bahan (A108d - Limbah Terkontaminasj B3, A336-1 - Bahan / Produk tidak memenuhi spesifikasi;;
+L-5903;Limbah B3 Industri;Limbah manufaktur, pabrik dan alat. Pilih Kode Limbah;;
+L-5905;Limbah Domestik;Pengambilan & Pengolahan limbah doemstik;;
+L-6001;Penyesuaian Nilai;Penyesuaian nominal biaya dan harga;;
